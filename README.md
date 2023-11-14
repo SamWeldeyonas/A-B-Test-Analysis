@@ -1,10 +1,21 @@
 # A-B-Test-Analysis
 
 ## Introduction 
-GloBox - An online marketplace specializing in sourcing unique and high-quality products from around the world.
-GloBox is primarily known amongst its customer base for boutique fashion items and high-end decor products. However, their food and drink offerings have grown tremendously in the last few months, and the company wants to bring awareness to this product category to increase revenue.
+GloBox - An online marketplace specializing in sourcing unique and high-quality products from around the world. GloBox is primarily known amongst its customer base for boutique fashion items and high-end decor products. However, their food and drink offerings have grown tremendously in the last few months, and the company wants to bring awareness to this product category to increase revenue. The company wants to include a banner that highlights key products in the food and drink category at the top of the website. 
+![](control_treatment.jpg)
+----
+
+The company want to see the impact of the newly included Banner. 
 
 
+
+
+---
+The A/B test was a mobile website-based test. The team has been working on an A/B test
+that highlights key products in the food and drink category as a banner at the top of the
+website. The control group does not see the banner, and the test group sees it as shown
+below. Users visiting the GloBox website are randomly assigned to the control and treatment
+groups/web pages.
 We are running an A/B test experiment to improve the homepage, and they need your help!
 
 In this project, you will analyze the results of an A/B test and create a report of data-driven recommendations based on your findings.
