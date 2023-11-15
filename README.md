@@ -115,3 +115,7 @@ Furthermore, the banner takes up high-value real estate on the main page, so we 
 So, for these reasons, I recommend to continue iterating. 
 
 
+## SQL CODE USED
+
+new file: Globox.sql 
+
