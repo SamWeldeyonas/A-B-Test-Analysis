@@ -105,7 +105,7 @@ It is also important to test if the used sample size was enough to detect the ob
 To conclude, although we have seen a statistically significant improvement in the conversion rate of the treatment group this has not materialized into a statistically significant improvement in the average amount of spending and thus revenue of the company. But, more importantly, as our sample size was not large enough to truly detect a difference with the desired statistical power and significance level, it is important to remember that the inferences we can make from the current analysis should be limited. It will therefore be important and sensible to continue iterating and include more users to truly detect a difference between those values. However, despite the limited inferences we can make from this data due to the fact that we do not have enough sample size to truly detect a difference with the desired statistical power and significance level, the observed improvement in conversion rate in the treatment group is promising. And this shows that we could possibly make changes to the banner experience and get better improvement next time.
 A join curve visualizing forecast (with 99% prediction interval) shows the cumulative number of users in the experiment at each point in time showing that we may able to achieve the desired sample sizes within the following 2 months.
 
-Cummulative number of users in the experiment over time (predictive)|
+Cummulative number of users in the experiment over time ( includes predictive values)|
 :------------------------: |
 ![](prediction.jpg) |
 
