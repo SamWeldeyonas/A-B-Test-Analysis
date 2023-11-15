@@ -119,3 +119,30 @@ So, for these reasons, I recommend to continue iterating.
 
 new file: Globox.sql 
 
+
+
+
+
+Tableau links: 
+Conversion rate: https://public.tableau.com/views/Book11_16885989929060/Conversionratebetweenthetestgroups?:language=en-GB&:display_count=n&:origin=viz_share_link 
+Average amount spent per user : 
+https://public.tableau.com/views/Book1tgg/Averageamountspentperuser?:language=en-GB&:display_count=n&:origin=viz_share_link 
+The distribution of the amount spent per user for each group :
+https://public.tableau.com/views/Book1tggghghb/Thedistributionoftheamountspentperuserforeachgroup?:language=en-GB&:display_count=n&:origin=viz_share_link 
+relationship between the test metrics and the user’s device:
+https://public.tableau.com/views/relationshipbetweenthetestmetricsandtheusersdevice/relationshipbetweenthetestmetricsandtheusersdevice?:language=en-GB&:display_count=n&:origin=viz_share_link 
+relationship between the test metrics and the user’s gender:
+https://public.tableau.com/views/conhjhjjhkl/Sheet4?:language=en-GB&:display_count=n&:origin=viz_share_link 
+Relationship between the test metrics and the user’s region
+https://public.tableau.com/views/conhjhjjhkljjffh/Sheet5?:language=en-GB&:display_count=n&:origin=viz_share_link 
+https://public.tableau.com/views/conhjhjjhkljjff/Sheet52?:language=en-GB&:display_count=n&:origin=viz_share_link 
+95% CI visualization: 
+https://public.tableau.com/views/CIAdvanced1/Dashboard2?:language=en-GB&:display_count=n&:origin=viz_share_link 
+ 
+Novelty effect check: 
+https://public.tableau.com/views/Book1346_16912624311130/Sheet1?:language=en-GB&:display_count=n&:origin=viz_share_link 
+
+https://public.tableau.com/views/Book2ddddh/Sheet1?:language=en-GB&:display_count=n&:origin=viz_share_link 
+Forecast Visualisation: 
+https://public.tableau.com/views/table2gj/Sheet10?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
+
